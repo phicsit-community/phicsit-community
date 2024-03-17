@@ -19,7 +19,7 @@ Our community welcomes individuals from various backgrounds, including:
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-nalawade-022427238) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/WriedGuy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pranavnalawade_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/phicsit/)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/PHICSIT) 
 
 ## What We Offer:
 - **Networking:** Connect with like-minded professionals, industry experts, and potential collaborators to expand your network and grow your business.
