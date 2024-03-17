@@ -18,9 +18,9 @@ Our community welcomes individuals from various backgrounds, including:
 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/phicsit/)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/PHICSIT) 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zt3hVmENcX) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PHICSIT) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phicsit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PHICSIT) 
 ## What We Offer:
 - **Networking:** Connect with like-minded professionals, industry experts, and potential collaborators to expand your network and grow your business.
 - **Resources:** Gain access to a wealth of resources, including articles, guides, webinars, and tools to enhance your skills and knowledge.
