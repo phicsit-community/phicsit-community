@@ -16,6 +16,11 @@ Our community welcomes individuals from various backgrounds, including:
 - Designers
 - And more!
 
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-nalawade-022427238) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/WriedGuy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pranavnalawade_) 
+
 ## What We Offer:
 - **Networking:** Connect with like-minded professionals, industry experts, and potential collaborators to expand your network and grow your business.
 - **Resources:** Gain access to a wealth of resources, including articles, guides, webinars, and tools to enhance your skills and knowledge.
@@ -25,12 +30,6 @@ Our community welcomes individuals from various backgrounds, including:
 
 ## Get Involved:
 Join our community today and embark on a journey of growth, learning, and collaboration. Whether you're looking to network, gain knowledge, or seek support, PHICSIT is the place to be for aspiring and 
-
-Connect with us on social media:
-- [Facebook](insert_facebook_link_here) ![Facebook Icon](insert_facebook_icon_link_here)
-- [Instagram](insert_instagram_link_here) ![Instagram Icon](insert_instagram_icon_link_here)
-- [LinkedIn](insert_linkedin_link_here) ![LinkedIn Icon](insert_linkedin_icon_link_here)
-- [Twitter](insert_twitter_link_here) ![Twitter Icon](insert_twitter_icon_link_here)
 
 
 # 📊 GitHub Stats:
@@ -51,7 +50,7 @@ Connect with us on social media:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PlanetDestroyyer&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=phicsit-community&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
