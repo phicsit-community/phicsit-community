@@ -1,10 +1,10 @@
-# Welcome to PHICSIT Community!
+# Welcome to PHICSIT Comapany!
 
 ## About Us:
-PHICSIT is a vibrant community dedicated to supporting startup founders, entrepreneurs, and online business owners in their journey to success. Whether you're a seasoned professional or new to the business world, our platform provides valuable resources, networking opportunities, and expert advice to help you thrive in today's competitive landscape.
+PHICSIT is a vibrant company dedicated to supporting startup founders, entrepreneurs, and online business owners in their journey to success. Whether you're a seasoned professional or new to the business world, our platform provides valuable resources, networking opportunities, and expert advice to help you thrive in today's competitive landscape.
 
 ## Who We Are For:
-Our community welcomes individuals from various backgrounds, including:
+Our company welcomes individuals from various backgrounds, including:
 - Startup founders
 - Entrepreneurs
 - Online business owners
@@ -15,10 +15,7 @@ Our community welcomes individuals from various backgrounds, including:
 - Developers
 - Designers
 - And more!
-
-
-
-
+- 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zt3hVmENcX) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PHICSIT) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phicsit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PHICSIT) 
 ## What We Offer:
@@ -45,10 +42,5 @@ Join our community today and embark on a journey of growth, learning, and collab
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=phicsit-community&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
-
-
-
-
 
 *Together, let's elevate our businesses and make a lasting impact in the digital world!*
