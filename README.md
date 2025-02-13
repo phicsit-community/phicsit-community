@@ -1,4 +1,4 @@
-# Welcome to PHICSIT Comapany!
+# Welcome to PHICSIT Company!
 
 ## About Us:
 PHICSIT is a vibrant company dedicated to supporting startup founders, entrepreneurs, and online business owners in their journey to success. Whether you're a seasoned professional or new to the business world, our platform provides valuable resources, networking opportunities, and expert advice to help you thrive in today's competitive landscape.
@@ -15,7 +15,7 @@ Our company welcomes individuals from various backgrounds, including:
 - Developers
 - Designers
 - And more!
-- 
+ 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zt3hVmENcX) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PHICSIT) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phicsit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PHICSIT) 
 ## What We Offer:
